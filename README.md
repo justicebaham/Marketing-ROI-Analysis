@@ -4,7 +4,8 @@
 
 
 
-**Problem:** The marketing department was managing a large dataset with over 8,000 rows across various channels (PPC, SEO, Social Media, Email). The volume of the raw data was too high to provide immediate insights into which channels were actually profitable versus which were just high-spend.
+**Problem:** 
+The marketing department was managing a large dataset with over 8,000 rows across various channels (PPC, SEO, Social Media, Email). The volume of the raw data was too high to provide immediate insights into which channels were actually profitable versus which were just high-spend.
 
 
 
@@ -52,4 +53,5 @@
 
 
 [Project 2 Google Sheet](https://docs.google.com/spreadsheets/d/1CzWvaCvi2RBaDk6qFFHcrWJ-ImBFEk3DHqrzB-SFI0E/edit?usp=sharing)
+
 
