@@ -21,7 +21,7 @@ The marketing department was managing a large dataset with over 8,000 rows acros
 **Result:**
 
 * Identified **PPC** as the efficiency leader with the lowest cost per conversion ($5,612.07), despite not having the highest total ad spend.
-* Highlighted **Email** as the lease efficient channel ($5,809.28 per conversion), providing evidence for budget reallocation.
+* Highlighted **Email** as the least efficient channel ($5,809.28 per conversion), providing evidence for budget reallocation.
 * Created a scalable, live dashboard that reduces manual reporting time.
 
 
@@ -53,5 +53,6 @@ The marketing department was managing a large dataset with over 8,000 rows acros
 
 
 [Project 2 Google Sheet](https://docs.google.com/spreadsheets/d/1CzWvaCvi2RBaDk6qFFHcrWJ-ImBFEk3DHqrzB-SFI0E/edit?usp=sharing)
+
 
 
